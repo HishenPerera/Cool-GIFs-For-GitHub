@@ -739,6 +739,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
 <br><br>
 
+- Sinusodial Waves
+<img src="https://github.com/HishenPerera/Cool-GIFs-For-GitHub/blob/Hishen's-Branch/assets/Sinusodial%20Waves.gif" width="300">
+<br><br>
+
 - Infinite Mobile Loop
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2f72c61a-5932-491f-b3ba-d3b3470c00cb" width="300">
 <br><br>
@@ -782,6 +786,7 @@
 - Very close octocats
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300">
 <br><br>
+
 
 - Star passing
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
